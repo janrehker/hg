@@ -1,2 +1,2 @@
-Human hg19	https://raw.githubusercontent.com/janrehker/hg/main/hg19.genome	hg19
-Human hg38	https://raw.githubusercontent.com/janrehker/hg/main/hg38.genome	hg38
+Human hg19	http://134.95.254.123:8080/igvdata/genomes/hg19.genome	hg19
+Human hg38	http://134.95.254.123:8080/igvdata/genomes/hg38.genome	hg38
