@@ -1,3 +1,3 @@
 <Server-Side Genome List>
-Human hg19	https://raw.githubusercontent.com/igvteam/igv-data/refs/heads/main/genomes/legacy/genome/hg19.genome	hg19
-Human hg38	https://raw.githubusercontent.com/igvteam/igv-data/refs/heads/main/genomes/legacy/genome/hg38.genome	hg38
+Human hg19	https://github.com/janrehker/hg/blob/main/hg19.genome	hg19
+Human hg38	https://github.com/janrehker/hg/blob/main/hg38.genome	hg38
