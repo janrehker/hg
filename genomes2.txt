@@ -1,2 +1,2 @@
-Human (hg38) https://raw.githubusercontent.com/janrehker/hg/refs/heads/main/hg38/hg38.json hg38
-Human (hg19) https://raw.githubusercontent.com/janrehker/hg/refs/heads/main/hg19/hg19.json hg19
+Human (hg38)	https://raw.githubusercontent.com/janrehker/hg/refs/heads/main/hg38/hg38.json	hg38
+Human (hg19)	https://raw.githubusercontent.com/janrehker/hg/refs/heads/main/hg19/hg19.json	hg19
