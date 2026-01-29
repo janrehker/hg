@@ -14,7 +14,7 @@
     {
       "name": "Refseq All",
       "format": "refgene",
-      "url": "https://github.com/janrehker/hg/raw/refs/heads/main/hg38/ncbiRefSeq.txt.gz",
+      "url": "https://raw.githubusercontent.com/janrehker/hg/refs/heads/main/hg38/ncbiRefSeq.txt.gz",
       "indexed": false,
       "order": 1000001,
       "infoURL": "https://www.ncbi.nlm.nih.gov/gene/?term=$$"
